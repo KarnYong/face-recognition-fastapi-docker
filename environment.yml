@@ -1,0 +1,9 @@
+name: venv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.5
+  - face_recognition 
+  - fastapi 
+  - uvicorn 
+  - python-multipart
